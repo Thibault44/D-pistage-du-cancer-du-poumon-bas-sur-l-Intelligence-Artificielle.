@@ -1,1 +1,1 @@
-# Depistage du cancer du poumon base sur l'Intelligence Artificielle.
+# Depistage du cancer du poumon basé sur l'Intelligence Artificielle.
